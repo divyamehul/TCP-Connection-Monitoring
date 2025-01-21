@@ -1,6 +1,6 @@
 # TCP-Connection-Monitoring
 
-TCP Connection Monitoring to identify performance bottleneck
+TCP Connection Monitoring to tool identify performance bottlenecks in network topologies
 
 As a part of Computer Networks, we did a project under the guidance of Dr. Kotaro Kataonka to develop an efficient
 TCP connection monitoring tool which can help to identify and fix performance problems. We took inspiration
